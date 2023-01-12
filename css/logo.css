@@ -1,0 +1,15 @@
+#logo {
+    /* Estilos para a div do logotipo */
+    position: absolute;
+    top: 4px;
+    left: 80px;
+  }
+  
+  #logo img {
+    /* Estilos para a imagem do logotipo */
+    width: 65px;
+    height: 53px;
+    border: 5px;
+    border-radius: 10px;
+  }
+  

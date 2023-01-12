@@ -1,0 +1,9 @@
+#icone-whatsapp img {
+    width: 70px !important;   
+    height: 70px !important;
+    position: fixed;
+        top: 72%;
+        left: 5%;
+        padding: 10px;
+        z-index: 10000000;
+}
